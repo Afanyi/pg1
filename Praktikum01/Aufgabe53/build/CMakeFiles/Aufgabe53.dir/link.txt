@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Aufgabe53.dir/main5.cpp.o CMakeFiles/Aufgabe53.dir/func1.cpp.o CMakeFiles/Aufgabe53.dir/func2.cpp.o -o Aufgabe53 
